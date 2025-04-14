@@ -1,3 +1,5 @@
+// Part 1: Chain of Responsibility
+
 abstract class SupportHandler {
     protected SupportHandler next;
 

@@ -1,3 +1,5 @@
+// Part 1: Chain of Responsibility
+
 public class JuniorSupportHandler extends SupportHandler{
     @Override
     public void handle(String issue) {

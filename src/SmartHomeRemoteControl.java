@@ -1,3 +1,5 @@
+// Part 2: Command Pattern
+
 public class SmartHomeRemoteControl {
     private java.util.Map<String, Command> commandSlots = new java.util.HashMap<>();
     private java.util.Stack<Command> history = new java.util.Stack<>();

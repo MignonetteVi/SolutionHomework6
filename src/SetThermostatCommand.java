@@ -1,3 +1,5 @@
+// Part 2: Command Pattern
+
 public class SetThermostatCommand implements Command{
     private Thermostat thermostat;
     private int temperature;

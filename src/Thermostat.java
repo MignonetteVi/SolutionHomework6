@@ -1,3 +1,5 @@
+// Part 2: Command Pattern
+
 public class Thermostat {
     private int temperature;
     private int prevTemperature;

@@ -1,3 +1,5 @@
+// Part 2: Command Pattern
+
 public class TurnOnLightCommand implements Command {
     private Light light;
 
